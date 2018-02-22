@@ -1,0 +1,20 @@
+{
+  "name": "js-tdd-udemy",
+  "version": "1.0.0",
+  "description": "Projeto do curso de JS com TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/HelenaZanini/js-tdd-udemy.git)"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "lib"
+  ],
+  "author": "Helena Zanini <helena.zanini1gmail.com>",
+  "license": "MIT"
+}
